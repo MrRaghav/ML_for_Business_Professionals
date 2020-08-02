@@ -1,0 +1,5 @@
+one of my favorites it's called Beat Blender.
+Beat Blender, generates hybrid beats.
+To use it, you choose a set of
+beats and the model
+is able to figure out how to mix them. 
