@@ -1,0 +1,4 @@
+Magenta is a TensorFlow project
+where machine learning creates music.
+Magenta has a number of
+publicly available demos for you to use
