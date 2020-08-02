@@ -1,0 +1,10 @@
+This is a picture of hardware developed at
+Google called NSynth Super.
+It's an open source, experimental instrument,
+which gives musicians the ability to explore
+new sounds generated with the NSynth algorithm.
+Using the dials, musicians can
+select the source sounds they
+would like to explore between,
+and drag their finger across the touchscreen to navigate
+new unique sounds which combine their acoustic qualities
