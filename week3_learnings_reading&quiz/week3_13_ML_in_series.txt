@@ -1,0 +1,19 @@
+machine learning models
+don't exist in isolation
+
+
+Take Google Translate for example.
+The Google Translate app
+lets you point a phone camera at a street sign,
+and it translates the sign for you.
+This is a good example of a combination
+of several models that is quite intuitive,
+one model to find the sign,
+another model to read the sign to do what
+is called optical character recognition on it,
+a third model to translate the sign,
+maybe a third model to detect the language,
+and a fourth model to translate the sign,
+a fifth model to superimpose
+the translated text on the original image,
+and maybe even a sixth model to select the font to use. 
