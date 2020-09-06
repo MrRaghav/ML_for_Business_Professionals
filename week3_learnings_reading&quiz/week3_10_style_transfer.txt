@@ -1,0 +1,11 @@
+You can transform images from one domain,
+such as photographs to another domain such as paintings.
+This is called style transfer,
+and you can use it to convert photographs to blueprints,
+convert blueprints to photographs,
+to correct colors in underwater photographs.
+ML style transfer, isn't just limited to static images.
+Here you can see the styles being applied
+and adjusted to video in real time.
+The awesome dog role here,
+is played by the Google brain team's office dog Peekaboo. 
