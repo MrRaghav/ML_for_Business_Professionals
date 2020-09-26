@@ -1,0 +1,15 @@
+What-If Tool, a tool for inspecting machine learning models for fairness considerations. 
+
+One of the AI Principles we discussed in the course is to “Avoid creating or reinforcing unfair bias,” and the What-If Tool is one tool for aiding in that. 
+
+
+What-If allows you to 
+
+- visualize inference results
+- edit a datapoint and see how your model performs
+- explore the effects of a single feature
+- view confusion matrices
+- test algorithmic fairness constraints
+
+all without writing a single line of code. 
+
