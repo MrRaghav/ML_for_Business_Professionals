@@ -1,0 +1,1 @@
+bigQueryML and autoML automatically separate data into test and training set
