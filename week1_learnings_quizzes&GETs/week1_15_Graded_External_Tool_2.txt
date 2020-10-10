@@ -1,0 +1,33 @@
+Understanding Images with Google Cloud Platform
+
+In this lab, you will experiment with pre-built models so there's no coding. First you start with the Vision API, which allows you to obtain predictions from images without having to train a model first. Then, you use AutoML Vision, which allows you to train a custom model and deploy it using only your labeled data.
+What you'll learn to do
+
+    What the Vision API is
+    What tasks it can be used for
+    Its advantages and limitations
+    What AutoML vision is
+    How AutoML is different from the Vision API
+    How to use AutoML vision to train a custom vision model
+
+
+------------------------------------------------------------
+The vision API is an API that uses machine learning and other Google services to extract information from images.
+
+The sorts of predictions that it can currently make include but are not limited to the following list:
+
+    Label Detection, which is used to detect the presence of certain broad classes of objects within images
+
+    Text Detection, which can be used to extract text from images, a process that also is referred to as OCR
+
+    Safe Search Detection, which can be used to check if an image is safe to serve
+
+    Landmark Detection, which can be used to detect common geographic landmarks in an image
+
+    Logo Detection, which detects the presence and location of common corporate logos
+
+    Web Detection, which detects topical entities such as news, events, or celebrities within the image, and find similar images on the web using the power of Google Image Search
+
+    Object Localization, which detects the presence of multiple objects and their locations within the image
+
+
